@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  overflow: hidden;
+}
+
+#game{
+  width: 100vw;
+  height: 100vh;
+}
+
+.ui{
+  position: absolute;
+  /* width: 100vw; */
+  height: 100vh;
+}
+
+#chat{
+  position: absolute;
+  bottom: 0;
+}
